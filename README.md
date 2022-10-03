@@ -18,8 +18,8 @@ Objectif
 C’est un travail pratique visant à évaluer la capacité de l’étudiante à concevoir et à développer une application WPF connectées via « Entity Framework » à une base de données SQL Server. 
 
 Les principaux objectifs de ce projet sont : 
-• Manipulation des contrôles de l’interface graphique avec WPF (XAML) ;
-• Manipulation des liaisons de données (DataBinding) ;
-• Manipulation des boites de dialogues ;
-• Manipulation des collections ;
-• Manipulation des bases de données et Linq;
+- Manipulation des contrôles de l’interface graphique avec WPF (XAML) ;
+- Manipulation des liaisons de données (DataBinding) ;
+- Manipulation des boites de dialogues ;
+- Manipulation des collections ;
+- Manipulation des bases de données et Linq;
