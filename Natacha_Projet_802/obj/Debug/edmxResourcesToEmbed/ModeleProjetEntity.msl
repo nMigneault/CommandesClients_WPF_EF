@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="masterModelStoreContainer" CdmEntityContainer="masterEntities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="masterModel.Categories">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="CategorieID" ColumnName="CategorieID" />
+          <ScalarProperty Name="NomCategorie" ColumnName="NomCategorie" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="masterModel.Clients">
+        <MappingFragment StoreEntitySet="Clients">
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+          <ScalarProperty Name="NomCompagnie" ColumnName="NomCompagnie" />
+          <ScalarProperty Name="NomContact" ColumnName="NomContact" />
+          <ScalarProperty Name="TitreContact" ColumnName="TitreContact" />
+          <ScalarProperty Name="Adresse" ColumnName="Adresse" />
+          <ScalarProperty Name="Province" ColumnName="Province" />
+          <ScalarProperty Name="CodePostal" ColumnName="CodePostal" />
+          <ScalarProperty Name="Pays" ColumnName="Pays" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Commandes">
+      <EntityTypeMapping TypeName="masterModel.Commandes">
+        <MappingFragment StoreEntitySet="Commandes">
+          <ScalarProperty Name="CommandeID" ColumnName="CommandeID" />
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+          <ScalarProperty Name="EmployeID" ColumnName="EmployeID" />
+          <ScalarProperty Name="DateCommande" ColumnName="DateCommande" />
+          <ScalarProperty Name="DateRequise" ColumnName="DateRequise" />
+          <ScalarProperty Name="DateEnvoi" ColumnName="DateEnvoi" />
+          <ScalarProperty Name="AdresseEnvoi" ColumnName="AdresseEnvoi" />
+          <ScalarProperty Name="VilleEnvoi" ColumnName="VilleEnvoi" />
+          <ScalarProperty Name="CodePostalEnvoi" ColumnName="CodePostalEnvoi" />
+          <ScalarProperty Name="PaysEnvoi" ColumnName="PaysEnvoi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employes">
+      <EntityTypeMapping TypeName="masterModel.Employes">
+        <MappingFragment StoreEntitySet="Employes">
+          <ScalarProperty Name="EmployeID" ColumnName="EmployeID" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Prenom" ColumnName="Prenom" />
+          <ScalarProperty Name="Titre" ColumnName="Titre" />
+          <ScalarProperty Name="DateDeNaissance" ColumnName="DateDeNaissance" />
+          <ScalarProperty Name="DateEmbauche" ColumnName="DateEmbauche" />
+          <ScalarProperty Name="Adresse" ColumnName="Adresse" />
+          <ScalarProperty Name="Province" ColumnName="Province" />
+          <ScalarProperty Name="CodePostal" ColumnName="CodePostal" />
+          <ScalarProperty Name="Pays" ColumnName="Pays" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="Extension" ColumnName="Extension" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Produits">
+      <EntityTypeMapping TypeName="masterModel.Produits">
+        <MappingFragment StoreEntitySet="Produits">
+          <ScalarProperty Name="ProduitID" ColumnName="ProduitID" />
+          <ScalarProperty Name="NomProduit" ColumnName="NomProduit" />
+          <ScalarProperty Name="CategorieID" ColumnName="CategorieID" />
+          <ScalarProperty Name="QuantiteParUnite" ColumnName="QuantiteParUnite" />
+          <ScalarProperty Name="PrixUnite" ColumnName="PrixUnite" />
+          <ScalarProperty Name="UnitesEnStock" ColumnName="UnitesEnStock" />
+          <ScalarProperty Name="UnitesSurCommande" ColumnName="UnitesSurCommande" />
+          <ScalarProperty Name="Discontinu" ColumnName="Discontinu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmployeeTerritories">
+      <EntityTypeMapping TypeName="masterModel.EmployeeTerritories">
+        <MappingFragment StoreEntitySet="EmployeeTerritories">
+          <ScalarProperty Name="EmployeID" ColumnName="EmployeID" />
+          <ScalarProperty Name="TerritoryID" ColumnName="TerritoryID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Territories">
+      <EntityTypeMapping TypeName="masterModel.Territories">
+        <MappingFragment StoreEntitySet="Territories">
+          <ScalarProperty Name="TerritoryID" ColumnName="TerritoryID" />
+          <ScalarProperty Name="TerritoryDescription" ColumnName="TerritoryDescription" />
+          <ScalarProperty Name="ProvinceID" ColumnName="ProvinceID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,27 @@
+﻿<Window x:Class="Natacha_Projet_802.ListeClients"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Natacha_Projet_802"
+        mc:Ignorable="d"
+        Title="Liste commandes clients" Height="250" Width="600"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <!-- liste clients -->
+        <ListView x:Name="ListViewClients" Grid.ColumnSpan="3" Margin="5,5,5,5" FontSize="10" >
+            <ListView.View>
+                <GridView x:Name="grdNomsClients">
+                    <GridViewColumn Header="Compagnie" DisplayMemberBinding="{Binding Compagnie, Mode=TwoWay}" Width="80"/>
+                    <GridViewColumn Header="Contact" DisplayMemberBinding="{Binding NomContact, Mode=TwoWay}" Width="80"/>
+                    <GridViewColumn Header="Adresse d'envoi" DisplayMemberBinding="{Binding Adresse, Mode=TwoWay}" Width="120"/>
+                    <GridViewColumn Header="Province" DisplayMemberBinding="{Binding Province, Mode=TwoWay}" Width="60"/>
+                    <GridViewColumn Header="Code postal" DisplayMemberBinding="{Binding CodePostal, Mode=TwoWay}" Width="50"/>
+                    <GridViewColumn Header="Pays" DisplayMemberBinding="{Binding Pays, Mode=TwoWay}" Width="50"/>
+                    <GridViewColumn Header="Téléphone" DisplayMemberBinding="{Binding Telephone, Mode=TwoWay}" Width="60"/>
+                    <GridViewColumn Header="Fax" DisplayMemberBinding="{Binding Fax, Mode=TwoWay}" Width="60"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

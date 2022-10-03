@@ -1,0 +1,78 @@
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\bin\Debug\Natte_Projet_802.exe.config
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\bin\Debug\Natte_Projet_802.exe
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\bin\Debug\Natte_Projet_802.pdb
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\bin\Debug\EntityFramework.dll
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\bin\Debug\EntityFramework.xml
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\bin\Debug\fr\EntityFramework.resources.dll
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.AssemblyReference.cache
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.SuggestedBindingRedirects.cache
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\ListeClients.g.cs
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\MainWindow.g.cs
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\App.g.cs
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natte_Projet_802_Content.g.cs
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natte_Projet_802_MarkupCompile.cache
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natte_Projet_802_MarkupCompile.lref
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\ListeClients.baml
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\MainWindow.baml
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natte_Projet_802.g.resources
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natte_Projet_802.Properties.Resources.resources
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.GenerateResource.cache
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.CoreCompileInputs.cache
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.CopyComplete
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natte_Projet_802.exe
+D:\dotNET\Natacha_Projet_802\Natacha_Projet_802\obj\Debug\Natte_Projet_802.pdb
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\bin\Debug\Natte_Projet_802.exe.config
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\bin\Debug\Natte_Projet_802.exe
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\bin\Debug\Natte_Projet_802.pdb
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\bin\Debug\EntityFramework.dll
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\bin\Debug\EntityFramework.xml
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\bin\Debug\fr\EntityFramework.resources.dll
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.AssemblyReference.cache
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.SuggestedBindingRedirects.cache
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\ListeClients.g.cs
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\MainWindow.g.cs
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\App.g.cs
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natte_Projet_802_Content.g.cs
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natte_Projet_802_MarkupCompile.cache
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natte_Projet_802_MarkupCompile.lref
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\ListeClients.baml
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\MainWindow.baml
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natte_Projet_802.g.resources
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natte_Projet_802.Properties.Resources.resources
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.GenerateResource.cache
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.CoreCompileInputs.cache
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.CopyComplete
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natte_Projet_802.exe
+D:\dotNET\Natacha_Projet_802 - BON\Natacha_Projet_802\obj\Debug\Natte_Projet_802.pdb
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\bin\Debug\Natte_Projet_802.exe.config
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\bin\Debug\Natte_Projet_802.exe
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\bin\Debug\Natte_Projet_802.pdb
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\bin\Debug\EntityFramework.dll
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\bin\Debug\EntityFramework.xml
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\bin\Debug\fr\EntityFramework.resources.dll
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.AssemblyReference.cache
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.SuggestedBindingRedirects.cache
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\ListeClients.g.cs
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\MainWindow.g.cs
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\App.g.cs
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natte_Projet_802_Content.g.cs
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natte_Projet_802_MarkupCompile.cache
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natte_Projet_802_MarkupCompile.lref
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\ListeClients.baml
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\MainWindow.baml
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natte_Projet_802.g.resources
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natte_Projet_802.Properties.Resources.resources
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.GenerateResource.cache
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.CoreCompileInputs.cache
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natacha_Projet_802.csproj.CopyComplete
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natte_Projet_802.exe
+D:\dotNET\Natacha_Projet_802 - 8juillet\Natacha_Projet_802\obj\Debug\Natte_Projet_802.pdb
