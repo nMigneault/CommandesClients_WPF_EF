@@ -1,6 +1,7 @@
 CommandesClients_WPF_EF
 =========================
 Projet de gestion de clients avec **Entity Framework**
+
 Projet scolaire, individuel, durée ~14 jours à temps partiel.
 
 Description
