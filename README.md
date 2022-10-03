@@ -1,6 +1,6 @@
 CommandesClients_WPF_EF
 =========================
-Projet de gestion de clients avec *Entity Framework*
+Projet de gestion de clients avec * Entity Framework *
 
 Projet scolaire, individuel, durée ~14 jours à temps partiel.
 Cancel changes
@@ -15,7 +15,7 @@ Exécuter le script *scriptBD.sql* pour générer la base de donner dans « (lo
 
 Objectif
 --------
-C’est un travail pratique visant à évaluer la capacité de l’étudiante à concevoir et à développer une application WPF connectées via « Entity Framework » à une base de données SQL Server. 
+C’est un travail pratique visant à évaluer la capacité de l’étudiante à concevoir et à développer une application WPF connectées via *Entity Framework* à une base de données SQL Server. 
 
 Les principaux objectifs de ce projet sont : 
 - Manipulation des contrôles de l’interface graphique avec WPF (XAML) ;
