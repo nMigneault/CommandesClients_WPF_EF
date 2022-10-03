@@ -10,7 +10,7 @@ Spécifications
 Le projet a été compilé avec le SDK .NET6, minimum requis pour exécuter le programme. Il utilise une base de données MySQL pour 
 ses données.
 
-Exécuter le script « ScriptBaseDonnees.sql » pour générer la base de donner dans « (localdb)\MSSQLLocalDB » ou  « SQLServerEXPRESS » ;
+Exécuter le script *scriptBD.sql* pour générer la base de donner dans « (localdb)\MSSQLLocalDB » ou  « SQLServerEXPRESS » ;
 
 
 Objectif
