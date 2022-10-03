@@ -1,9 +1,13 @@
 CommandesClients_WPF_EF
 =========================
 Projet de gestion de clients avec **Entity Framework**
-
 Projet scolaire, individuel, durée ~14 jours à temps partiel.
-Cancel changes
+
+Description
+-----------
+Application Entity Framework (EF) avec liaison de données et ASP.NET à une base de données SQLServerEXPRESS. 
+Il s'agit d'un gestionnaire de magasin avec interface graphique qui comprend des fonctionnalités telles que l’ajout, la mise à jour, la suppression d'employés.  
+Une liste de clients, d'employés et de produits sont chargés, soit au double click sur un employé ou par une ComboBox.
 
 Spécifications
 --------------
@@ -11,7 +15,6 @@ Le projet a été compilé avec le SDK .NET6, minimum requis pour exécuter le p
 ses données.
 
 Exécuter le script *scriptBD.sql* pour générer la base de donner dans « (localdb)\MSSQLLocalDB » ou  « SQLServerEXPRESS » ;
-
 
 Objectif
 --------
